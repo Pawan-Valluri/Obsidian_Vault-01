@@ -1,0 +1,1 @@
+Screen flash warning(can be seen in thunderstorms, etc)

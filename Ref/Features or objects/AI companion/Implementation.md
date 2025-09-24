@@ -8,3 +8,4 @@ Ideally, the meshes itself should be analyzed. But it is very expensive. Hence, 
 context can be what happened recently and story stuff. The models needs to be custom training and fine tuning as well. 
 
 If there are not much system resources, the AI can tell with the player that: You haven't given me enough compute resources. If you want me to do this, Upgrade my compute resources(the real-world pc/console).
+

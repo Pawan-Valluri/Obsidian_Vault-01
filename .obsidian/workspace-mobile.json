@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trdg.md",
+                "file": "Ref/Features or objects/AI companion/Implementation.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Trdg"
+              "title": "Implementation"
             }
           }
         ]
@@ -157,12 +157,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "685dfb3fc060d06b",
+  "active": "8d0fdb1a9acd4576",
   "lastOpenFiles": [
-    "Ref/Scenarios/Mom's beats son, but she cries.md",
+    "Ref/Narrative Dissonance.md",
     "Ref/Features or objects/AI companion/Implementation.md",
-    "Ref/Features or objects/AI companion/AI companion.md",
     "Trdg.md",
+    "Ref/Scenarios/Mom's beats son, but she cries.md",
+    "Ref/Features or objects/AI companion/AI companion.md",
     "Ref/Features or objects/Unique Lighting and color tones for unique areas.md",
     "Ref/Features or objects/AI companion",
     "Ref/Features or objects/Startup.md",
@@ -188,7 +189,6 @@
     "Ref/Features or objects/Vishnavites vs shivites vs Shakti war.md",
     "Ref/Features or objects/Dogs.md",
     "Ref/Features or objects/Education.md",
-    "Ref/Features or objects/Rangoli.md",
     "Ref/Objects/People",
     "Ref/Features or objects",
     "Ref/Objects/Rangoli",

@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/Features or objects/AI companion/Implementation.md",
+                "file": "Ref/Storyboard/Before world transfer/Previous world and entry of humans.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Implementation"
+              "title": "Previous world and entry of humans"
             }
           }
         ]
@@ -159,8 +159,12 @@
   },
   "active": "8d0fdb1a9acd4576",
   "lastOpenFiles": [
-    "Ref/Narrative Dissonance.md",
+    "Ref/Before.md",
+    "Ref/Storyboard/Before world transfer/Previous world and entry of humans.md",
+    "Ref/Storyboard/Before world transfer",
     "Ref/Features or objects/AI companion/Implementation.md",
+    "Ref/Storyboard",
+    "Ref/Narrative Dissonance.md",
     "Trdg.md",
     "Ref/Scenarios/Mom's beats son, but she cries.md",
     "Ref/Features or objects/AI companion/AI companion.md",
@@ -187,8 +191,6 @@
     "Drawing 2024-06-07 03.51.31.excalidraw.md",
     "Thinking model architecture.canvas",
     "Ref/Features or objects/Vishnavites vs shivites vs Shakti war.md",
-    "Ref/Features or objects/Dogs.md",
-    "Ref/Features or objects/Education.md",
     "Ref/Objects/People",
     "Ref/Features or objects",
     "Ref/Objects/Rangoli",

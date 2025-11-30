@@ -22,7 +22,9 @@
     "editor:configure-toolbar",
     "editor:table-col-align-right",
     "editor:table-col-align-center",
-    "editor:table-col-align-left"
+    "editor:table-col-align-left",
+    "editor:insert-table"
   ],
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

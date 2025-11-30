@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ref/Ideas on air.md",
+                "file": "Ref/Dialogues on air 💬/The empty hand.md",
                 "mode": "source",
-                "source": true,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Ideas on air"
+              "title": "The empty hand"
+            }
+          },
+          {
+            "id": "60fd682f85272902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "ddd58930c6408232",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Drawing 2025-12-01 01.42.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-01 01.42.58.excalidraw"
             }
           }
         ]
@@ -37,7 +62,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byModifiedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -130,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Trdg.md",
+            "file": "Ref/Dialogues on air 💬/Untitled.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -154,20 +179,34 @@
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "8d0fdb1a9acd4576",
   "lastOpenFiles": [
-    "Ref/State of Play — How Weapons or Play Shapes how you experience everything else.md",
-    "Ref/Ideas on air.md",
+    "Ref/Dialogues on air 💬/A simple merchant.md",
+    "Ref/Dialogues on air 💬/Achilles dialogue.jpg",
+    "Ref/Thoughts on air 💭/Hidden beyond the Hidden.md",
+    "Ref/Thoughts on air 💭/Better hiding spot.png",
+    "Ref/Dialogues on air 💬/The empty hand.md",
+    "Ref/Thoughts on air 💭/State of play.md",
+    "Drawing 2025-12-01 01.42.58.excalidraw.md",
+    "Untitled.md",
+    "Ref/My Style.md",
     "Ref/Storyboard/World building and story telling.md",
     "Ref/Storyboard/Before world transfer/Previous world and entry of humans.md",
+    "Ref/State of Play - How Weapons or Play Shapes how you experience everything else.md",
+    "Ref/Thoughts on air 💭/Elaborate Fail-safes.md",
+    "Ref/Thoughts on air 💭/Architecting worlds and Mandala art.md",
+    "Ref/Ideas on air.md",
+    "Ref/Thoughts on air 💭/Narrative Dissonance.md",
+    "Ref/Dialogues on air 💬",
+    "Ref/Thoughts on air 💭",
     "Ref/Before.md",
     "Ref/Storyboard/Before world transfer",
     "Ref/Features or objects/AI companion/Implementation.md",
     "Ref/Storyboard",
-    "Ref/Narrative Dissonance.md",
     "Trdg.md",
     "Ref/Scenarios/Mom's beats son, but she cries.md",
     "Ref/Features or objects/AI companion/AI companion.md",
@@ -178,22 +217,11 @@
     "Ref/Features or objects/Sight issues and lenses.md",
     "Ref/Features or objects/Painkiller or Shilajit.md",
     "Ref/Features or objects/Occasional Crazy Thunderstorms.md",
-    "Ref/Scenarios/A yogi identifies your true nature.md",
-    "Ref/Flow in spiritual content or teaching.md",
-    "Ref/Scenarios/Pillars' stories.md",
-    "Ref/Scenarios/Love letter is a song.md",
-    "Ref/Subtle variations.md",
-    "Ref/Artist vs Audience Perception in Art.md",
-    "Ref/Inspirations/A new element.md",
-    "Ref/Inspirations/Races and regions.md",
-    "Ref/Inspirations/Floating islands.md",
-    "Ref/Public board meeting.md",
     "Ref/Inspirations",
     "Ref/Scenarios",
     "Thinking model architecture.canvas",
     "Ref/Objects/People",
     "Ref/Features or objects",
-    "Ref/Objects/Rangoli",
-    "Ref"
+    "Ref/Objects/Rangoli"
   ]
 }

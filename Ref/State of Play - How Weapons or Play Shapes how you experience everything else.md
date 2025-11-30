@@ -1,4 +1,4 @@
-- This is an experience from the game: **Hades**. 
+- This is an experience from the game: #Hades
 
 ### 1. The Spear — The Rhythm of Chaos
 
@@ -17,7 +17,7 @@ It’s pure impulse, a storm of decisions made half a heartbeat too soon.
 This isn’t just combat — it’s a mental temperature.
 A state of chaos, where my mind mirrors the relentless forward motion of the weapon in my hands.
 
-And while I’m in that swirl of motion, the story beats I encounter feel more intense, more urgent — like the world itself is breathing fast with me.
+And while I’m in that swirl of motion, the story beats I encounter feel more intense, more urgent - like the world itself is breathing fast with me.
 
 
 ---
@@ -63,31 +63,30 @@ It’s a filter through which the entire game is experienced.
 
 Here are some distilled craft points from a design/writing perspective:
 
-#### 🎮 1. Weapons can be emotional modifiers.
+#### 📖 1. Influence of this in Player's way of experiencing story.
+
+This state of mind determines how one experiences story. Like in fast paced games, if a cutscene pops up, most skip it. As the pacing is different from combat.
+
+#### 🎮 2. Weapons can be emotional modifiers.
 
 Not just tools — states of mind.
 Design weapons to change the player’s mental cadence, not just their DPS.
 
-#### 🧠 2. Force physical constraints to influence psychology.
+#### 🧠 3. Force physical constraints to influence psychology.
 
 If the weapon physically prevents button mashing (like the bow), it naturally creates a slower mental rhythm.
 Use this deliberately.
 
-#### 🎭 3. Let mechanical rhythm bleed into narrative rhythm.
+#### 🎭 4. Let mechanical rhythm bleed into narrative rhythm.
 
 Fast weapons → create impulsive reading, frantic pacing.
 Slow weapons → create reflective mood, narrative absorption.
 
-#### 🔄 4. Design for contrast.
+#### 🔄 5. Design for contrast.
 
 Opposing play styles create emotional texture.
 Players feel the shift — and the shift itself becomes memorable.
 
-#### 🌌 5. The “lens effect” can drive dynamic storytelling.
+#### 🌌 6. The “lens effect” can drive dynamic storytelling.
 
 In future games, consider adaptive dialogue pacing, music, or visual cues that subtly match the player’s weapon-driven mindset.
-
-
----
-
-If you'd like, I can help you continue building a full journal of experiential mechanics, or refine this into a game design document format later.

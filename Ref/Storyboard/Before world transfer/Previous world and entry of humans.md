@@ -1,3 +1,5 @@
+Note: this version is #Deprecated
+
 The 'previous world' was bleak and pretty much looked like it was recovering from a population explosion, but it's actually dying. That world was not native to the player's species, the 'humans' were aliens over there.
 
 According to history, from the natives, it looked like humans popped out of nowhere. They possessed incredible technology and wisdom. They had very inclusive ideologies. All that, but were weak and and couldn't digest the local vegetation and meats well. they withered a bit, but adopted as generations passed. The humans also brought along their own plants and a few animals that they could grow and spread in the world. So did their own foods that help them survive well.

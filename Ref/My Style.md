@@ -1,0 +1,1 @@
+TRANQUILITY, BALANCE and MEDITATIVE is my #Style. That feeling when I think of god. Always never go too far from the true soul's nature. Everything is a reflection of your true self. Every world, every story, every word, every dialogue, every **struggle**, everything.

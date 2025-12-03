@@ -3,7 +3,7 @@
 # **State of Play — How Weapons Shape the Mind**
 
 ## **1. The Spear — The Rhythm of Chaos**
-When I grip the spear in *Hades*, something inside me shifts.
+When I grip the spear in #Hades-1, something inside me shifts.
 
 The weapon doesn’t politely ask me to attack — it **drags** me forward.  
 Every thrust feels like a breath I must exhale quickly, before the next enemy lunges. The rapid succession of strikes pushes me into a momentum I can’t easily step out of.
@@ -11,58 +11,76 @@ Every thrust feels like a breath I must exhale quickly, before the next enemy lu
 Suddenly, I'm thinking faster than I realize.  
 Or maybe — I'm not thinking at all.
 
-The spear’s pace **demands** spontaneity. No time to weigh options. No room for hesitation.  
-It is pure **impulse**, a storm of half-formed decisions and quick reactions.
+The spear’s pace **demands** spontaneity. No time to weigh options. No hesitation.  
+It is pure **impulse**, a storm of decisions snapped together in frantic succession.
 
 This isn’t just combat — it’s a mental temperature.  
-A **state of chaos**, where my mind mirrors the relentless forward motion of the weapon in my hands.
+A **state of chaos**, where my mind vibrates with the weapon's urgency.
 
-And while I’m in that swirl of motion, the story beats I encounter feel more immediate, more desperate — as if the world itself is running alongside me.
+And in that violent momentum, even storytelling moments feel more immediate, more breathless — as if the world is sprinting with me.
 
 ---
 
 ## **2. The Bow — The Quiet Between Breaths**
 Then there’s the bow.
 
-It refuses to be rushed.  
-My fingers **cannot** brute-force it into speed — the weapon ignores impatience entirely.
+It refuses to be hurried.  
+It ignores impatience.  
+It forces me into stillness before every action.
 
-Drawing the string back forces a tiny moment of stillness.  
-A breath.  
-A pause.
+Drawing the string back becomes a small ritual —  
+a moment of intention,  
+a breath I must take before the world moves again.
 
-Each shot becomes intentional, almost ceremonial.  
-Instead of reacting, I begin **choosing**. The battlefield slows in my perception, and I can feel myself stepping into a thoughtful, measured rhythm.
+Each shot becomes precise, deliberate.  
+The bow pulls me into a **calming state of mind**, where decisions are crisp and uncluttered.
 
-The bow pulls me into a **calming state of mind**, where clarity takes the place of adrenaline.  
-Where every arrow feels like a decision with weight behind it.
+### **Timed Inputs — The Birth of Rhythm**  
+The bow also introduces something subtler — and far more important.  
+If the **hold duration** stays close to a consistent timing, the game rewards me with a bonus attack. This creates the conditions for **rhythm**.
 
-And because my mind slows, the story slows.  
-Scenes feel more reflective, more spaced-out — as if the world is allowing me to observe it with a cleaner lens.
+Not random timing.  
+Not guesswork.  
+A **steady, repeatable cadence** that my body begins to memorize.
 
-### Bow's Comparing Parallel to #Raji-1
-This difference in pace reminds me of #Raji-1. That game features many beautiful acrobatic jumps and sweeping moves — but each of these animations takes time to complete, and they are all triggered by a **single press**. Because a simple press initiates long, committed animations, other inputs often collide and rejected with these actions. The result is a lingering sense of *disconnect* — as if I can’t fully control the character once an action begins.
+This is huge.
 
-If those long moves were instead tied to a **HOLD**, the intention would be clearer.  
-A hold input inherently communicates commitment:  
-*“I am choosing to do this. I am bracing for this.”*
+Because now my **mind and fingers fall into a beat** — a physical mantra.  
+A rhythm that continues even in high-pressure moments.  
+And when the same rhythm works in both calm and chaos, something extraordinary happens:
 
-It also prevents accidental activation and preserves player clarity.
+My body enters a state only **REAL LIFE SEASONED WARRIORS** ever touch —  
+that **ZEN of combat**.  
+That calm inside the storm.  
+That accuracy that feels effortless…  
+yet wild…  
+yet controlled…  
+yet *alive*.
+**THIS IS HOW COMBAT SHOULD BE!!!! AAAAAAAAAAAAAAAAAAAAA!**
 
-This is where #Hades-1 excels — its controls feel **tight**, deliberate, and responsive.  
-Every action is shaped around the principle that:
-	**MAXIMUM PLAYER CONTROL CREATES MAXIMUM CONFIDENCE**.
-The bow’s slow, intentional rhythm works precisely because the controls never fight the player; they guide intention rather than override it.
+### Bow's Comparing Parallel to #Raji-1   
+This controlled rhythm also highlights why games like #Raji-1 (An ancient Epic) sometimes struggle with precision.  
+Raji’s long, graceful acrobatics are triggered by a **simple press**, which often conflicts with other inputs(which will be cancelled) while the animation is still unfolding. This creates confusion — a disconnect from the character.
+
+If those moves required a **HOLD**, the intention would be unmistakable.  
+A hold inherently communicates commitment.  
+It reduces accidental actions, clarifies player intention, and tightens the feedback loop.
+This would additionally require to implement the action for 'release' input.
+
+#Hades-1 nails this philosophy:  
+**tight controls → clear intention → empowered player.**
+
+The bow’s rhythm only works because the controls never betray the player’s timing.  
+They honour it.
 
 ---
 
 ## **3. The Weapon as a Lens**
-The weapon you choose isn’t just a combat tool — it's the **mental frame** through which you experience the entire game.
+The weapon you choose doesn’t just change your attacks — it reshapes your **inner tempo**.
 
-The spear turns the story into a chase.  
-The bow turns it into contemplation.
-
-And this shifting lens is one of the most powerful storytelling tools a game can have.
+The spear turns the world into a chase.  
+The bow turns it into meditation.  
+Both are windows into different versions of the same story.
 
 ---
 

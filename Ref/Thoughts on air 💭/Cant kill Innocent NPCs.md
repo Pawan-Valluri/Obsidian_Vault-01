@@ -1,0 +1,7 @@
+There must be a mechanic that stops the player from killing the innocent NPCs. The most normal way to do is to cancel the attack animation when an NPC is detected within the hitbox like ghost of Tsushima. 
+
+The other way and I think could be interesting is to try something that the ***==log horizon==*** anime has done.
+
+There can be a set of protectors within a certain range that at when there is a friendly NPC being attacked by the player. The set of protectors detect that there is combat and it clearly attacks you for the action. These protectors are immensely powerful and can easily one shot you. Advantages here could be that the impact of the art itself. There are a lot of negatives such as what about the NPCs that are not belonging to a certain range like the travelling NPCs, giving a huge impact that makes you feel powerless. The part that makes you feel powerless has to be handled in a very careful manner as it can make or break the emotion of growth that the player builds with the player character.
+
+One more way and much simpler way could be stone that is in your head, can **burst**. Maybe there is a curse set on you when it detects that you have done something that has no reason or not following dharma, it will burst.

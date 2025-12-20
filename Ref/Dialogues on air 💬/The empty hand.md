@@ -5,4 +5,5 @@ The empty hand has more destructive force than any weapon, lad. It is the only w
 
 *The dialogue delivery/Voice acting is great too*
 
+
 ![[Achilles dialogue.jpg]]

@@ -11,12 +11,14 @@
             "id": "8d0fdb1a9acd4576",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Drawing 2025-12-01 01.42.58.excalidraw.md"
+                "file": "Ref/Storyboard/World building and story telling.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-01 01.42.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "World building and story telling"
             }
           },
           {
@@ -73,7 +75,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Raji-1",
+            "query": "tag:#Environmental",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -153,7 +155,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Drawing 2025-12-01 01.42.58.excalidraw.md",
+            "file": "Ref/Dialogues on air 💬/The empty hand.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -181,46 +183,50 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3a2ad3ff1e76dc8d",
+  "active": "8d0fdb1a9acd4576",
   "lastOpenFiles": [
-    "Ref/Thoughts on air 💭/Flow in spiritual content or teaching.md",
-    "Ref/Thoughts on air 💭/Artist vs Audience Perception in Art.md",
-    "Ref/Thoughts on air 💭/Subtle variations.md",
-    "Ref/Thoughts on air 💭/Public board meeting.md",
-    "Untitled.md",
-    "Ref/Thoughts on air 💭/In the head Bro.md",
+    "Ref/Storyboard/Before world transfer/Previous world and entry of humans.md",
+    "Ref/Geopolitics, Raceology, and Storytelling — Through the Lens of Hindu Narrative Tradition🔥.md",
     "Ref/Dialogues on air 💬/The empty hand.md",
-    "Ref/Thoughts on air 💭/Hidden beyond the Hidden.md",
+    "Achilles dialogue.jpg",
+    "Ref/Dialogues on air 💬/Pelted by rains.md",
+    "Ref/Thoughts on air 💭/In the head Bro.md",
+    "Thinking model architecture.canvas",
+    "Ref/State of Play - How Weapons or Play Shapes how you experience everything else.md",
+    "Images/Achilles dialogue.jpg",
+    "Images/featured-one-piece-best-backstories-in-the-series-oden-law-kuma.jpg",
+    "Images/One-Piece-10-Most-Tragic-Backstories-From-Side-Characters.jpg",
+    "Images/sivagami-being-badass.jpg",
+    "Images/Sathyaraj-1.jpg",
+    "Images",
+    "Ref/Thoughts on air 💭/Geopolitics and Storytelling.md",
+    "Ref/Dialogues on air 💬/RUUUUUUUUNNNNNN(angrily).md",
     "Ref/Dialogues on air 💬/A simple merchant.md",
+    "Ref/Thoughts on air 💭/Artist vs Audience Perception in Art.md",
+    "Ref/Thoughts on air 💭/Public board meeting.md",
+    "Ref/Thoughts on air 💭/Narrative Dissonance.md",
+    "Ref/Thoughts on air 💭/Subtle variations.md",
+    "Drawing 2025-12-01 01.42.58.excalidraw.md",
+    "Ref/Thoughts on air 💭/Flow in spiritual content or teaching.md",
+    "Untitled.md",
+    "Ref/Thoughts on air 💭/Hidden beyond the Hidden.md",
     "Ref/Features or objects/Painkiller or Shilajit.md",
     "Ref/Features or objects/Ruins.md",
     "Ref/Features or objects/AI companion/Implementation.md",
-    "Ref/Storyboard/Before world transfer/Previous world and entry of humans.md",
     "Ref/Storyboard/World building and story telling.md",
     "Ref/Thoughts on air 💭/Cant kill Innocent NPCs.md",
-    "Ref/Thoughts on air 💭/Narrative Dissonance.md",
     "Ref/Thoughts on air 💭/Architecting worlds and Mandala art.md",
     "Ref/Thoughts on air 💭/Elaborate Fail-safes.md",
     "Ref/Thoughts on air 💭/State of play.md",
-    "Ref/Thoughts on air 💭/Dialogues in Menu(pause, start).md",
     "Ref/Thoughts on air 💭/Better hiding spot.png",
-    "Ref/Thoughts on air 💭/how to introduce culture and lore.md",
-    "Ref/Dialogues on air 💬/Achilles dialogue.jpg",
-    "Ref/State of Play - How Weapons or Play Shapes how you experience everything else.md",
-    "Drawing 2025-12-01 01.42.58.excalidraw.md",
-    "Ref/Thoughts on air 💭/My Style.md",
-    "Ref/Ideas on air.md",
     "Ref/Dialogues on air 💬",
     "Ref/Thoughts on air 💭",
-    "Ref/Before.md",
     "Ref/Storyboard/Before world transfer",
     "Ref/Storyboard",
     "Ref/Features or objects/AI companion",
     "Ref/Inspirations",
     "Ref/Scenarios",
-    "Thinking model architecture.canvas",
     "Ref/Objects/People",
-    "Ref/Features or objects",
-    "Ref/Objects/Rangoli"
+    "Ref/Features or objects"
   ]
 }

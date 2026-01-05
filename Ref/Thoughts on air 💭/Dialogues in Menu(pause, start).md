@@ -17,3 +17,6 @@ Also integrating bro into the feel of menu without a face or a medium to "sense 
 Also the bro could actually be a character "IN-GAME". ALSO SOMETIMES A DIFFERENT INGAME BRO ACTS AS A SUB WHEN OUR BRO IS UN AVAILABLE. HOW F💥💥KN COOL. 
 
 
+# "Fantasy is escapist, and that is its glory"
+\- J.R.R. Tolkien
+Make sure to follow [this](https://youtu.be/FaejpU_c0Xs?t=37s) before actually following this Note

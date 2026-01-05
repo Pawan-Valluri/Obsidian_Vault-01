@@ -1,0 +1,5 @@
+In earth there are hierarchies that restrict and direct the fliw of wealth, responsibilities, respect, opportunities, work, etc. In india, we had the varna system, and other countries had their own systems. This creates order, networking, experience building by generations, etc. 
+
+But, if a society without such hierarchies exists, how does it operate? Especially with multi races, multi biological races were to exists, which looks like its going to arrange itself into hierarchies, but hierarchies were to not exists, how do they even operate, how does this operating prevent this self-arrangement of societal hierarchies? Is it possible that Temples(which are center for societies historically) play a role in this, but how? 
+
+Tags: #society #SocietalHierarchies #Racism #Descrimination #Equality #Race #conflict #Diversity #Geopolitics #Politics

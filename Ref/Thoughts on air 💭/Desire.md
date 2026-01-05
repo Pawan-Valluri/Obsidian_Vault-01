@@ -1,0 +1,3 @@
+Till now the depiction of desires have been shown in the wrong direction. It is shown as something bad to have and it is pretty much dark. example, the desire of having more wealth, the desire of acquiring stuff like women, wealth, name, etc.
+
+This might be correct in most senses, but I want to showcase desire as one of the most important part of the nature and the world itself. It is ingrained into the inner workings of the world and if it is not complimented with other things, it will break into chaos. because without desire, harmony doesn't exist. This has been showcased well in our culture as in the desire Queen Kaameshwari, basically rests upon the Trinity. In some way, the desire has to be shown in a uniquely bright light.

@@ -1,5 +1,8 @@
 - This is an experience from the game: #Hades-1 and #Raji-1 
 
+# "Fantasy is escapist, and that is its glory"
+\- J.R.R. Tolkien
+
 # **State of Play — How Weapons Shape the Mind**
 
 ## **1. The Spear — The Rhythm of Chaos**

@@ -1,0 +1,1 @@
+Archetypes dont just apply to characters. They can be seen in civilizations, worlds, etc

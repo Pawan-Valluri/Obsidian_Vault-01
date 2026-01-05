@@ -23,3 +23,7 @@ One way is clearly see it is by writing something that you feel strongly emotion
 
 > **Be fearless, confident and truthful.**
 
+
+# "Fantasy is escapist, and that is its glory"
+\- J.R.R. Tolkien
+Make sure to follow [this](https://youtu.be/FaejpU_c0Xs?t=37s) before actually following this Note

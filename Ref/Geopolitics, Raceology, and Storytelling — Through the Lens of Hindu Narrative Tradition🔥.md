@@ -1,4 +1,8 @@
 
+# "Fantasy is escapist, and that is its glory"
+\- J.R.R. Tolkien
+Make sure to follow [this](https://youtu.be/FaejpU_c0Xs?t=37s) before actually following this Note
+
 ### Foundational Principle (Reaffirmed)
 
 In a Hindu-mythology–driven world, geopolitics is **never authored as a system**.  
@@ -243,5 +247,12 @@ In half-truths spoken by the wrong people at the right time.
 
 And most importantly—  
 it is understood **through those we choose to walk beside**. 🔱
+
+
+Other notes: 
+There could be very rare mysterious races too that doesn't come into the larger classifications. Mybe due to some features like secluion, difficulty in reproducibility, very long lifespan, etc. Some could be: 
+1. The Ghanas (not evey Ghana could be one of Shiva Ghana. Maybe. But all are Shiva Bhakts)
+2. 
+
 
 Tags: #Race, #Narration, #Storytelling, #Geopolitics, #Style , #Politics, #Diversity , #Ludonarrative_Dissonance, #Reference_links

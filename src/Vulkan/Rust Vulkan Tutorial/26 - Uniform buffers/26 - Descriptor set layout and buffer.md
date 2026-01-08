@@ -14,7 +14,7 @@ The *descriptor layout* specifies the types of resources that are going to be ac
 
 There are many types of descriptors, but in this chapter we'll work with uniform buffer objects (UBO). We'll look at other types of descriptors in future chapters, but the basic process is the same. Let's say we have the data we want the vertex shader to have in a struct like this:
 
-```rust,noplaypen
+```rust
 #[repr(C)]
 #[derive(Copy, Clone, Debug)]
 struct UniformBufferObject {
@@ -73,7 +73,7 @@ Note that the order of the `uniform`, `in` and `out` declarations doesn't matter
 
 The next step is to define the UBO on the Rust side and to tell Vulkan about this descriptor in the vertex shader. First we add a few more imports and a type alias:
 
-```rust,noplaypen
+```rust
 use cgmath::{point3, Deg};
 
 type Mat4 = cgmath::Matrix4<f32>;
@@ -81,7 +81,7 @@ type Mat4 = cgmath::Matrix4<f32>;
 
 Then create the `UniformBufferObject` struct:
 
-```rust,noplaypen
+```rust
 #[repr(C)]
 #[derive(Copy, Clone, Debug)]
 struct UniformBufferObject {
@@ -95,7 +95,7 @@ We can exactly match the definition in the shader using data types in the `cgmat
 
 We need to provide details about every descriptor binding used in the shaders for pipeline creation, just like we had to do for every vertex attribute and its `location` index. We'll set up a new function to define all of this information called `^create_descriptor_set_layout`. It should be called right before pipeline creation, because we're going to need it there.
 
-```rust,noplaypen
+```rust
 impl App {
     unsafe fn create(window: &Window) -> Result<Self> {
         // ...
@@ -116,7 +116,7 @@ unsafe fn create_descriptor_set_layout(
 
 Every binding needs to be described through a `vk::DescriptorSetLayoutBinding` struct.
 
-```rust,noplaypen
+```rust
 unsafe fn create_descriptor_set_layout(
     device: &Device,
     data: &mut AppData,
@@ -139,7 +139,7 @@ There is also an `immutable_samplers` field which is only relevant for image sam
 
 All of the descriptor bindings are combined into a single `vk::DescriptorSetLayout` object. Define a new `AppData` field above `pipeline_layout`:
 
-```rust,noplaypen
+```rust
 struct AppData {
     // ...
     descriptor_set_layout: vk::DescriptorSetLayout,
@@ -150,7 +150,7 @@ struct AppData {
 
 We can then create it using `create_descriptor_set_layout`. This function accepts a simple `vk::DescriptorSetLayoutCreateInfo` with the array of bindings:
 
-```rust,noplaypen
+```rust
 let bindings = &[ubo_binding];
 let info = vk::DescriptorSetLayoutCreateInfo::builder()
     .bindings(bindings);
@@ -160,7 +160,7 @@ data.descriptor_set_layout = device.create_descriptor_set_layout(&info, None)?;
 
 We need to specify the descriptor set layout during pipeline creation to tell Vulkan which descriptors the shaders will be using. Descriptor set layouts are specified in the pipeline layout object. Modify the `vk::PipelineLayoutCreateInfo` to reference the layout object:
 
-```rust,noplaypen
+```rust
 let set_layouts = &[data.descriptor_set_layout];
 let layout_info = vk::PipelineLayoutCreateInfo::builder()
     .set_layouts(set_layouts);
@@ -170,7 +170,7 @@ You may be wondering why it's possible to specify multiple descriptor set layout
 
 The descriptor layout should stick around while we may create new graphics pipelines i.e. until the program ends:
 
-```rust,noplaypen
+```rust
 unsafe fn destroy(&mut self) {
     self.destroy_swapchain();
     self.device.destroy_descriptor_set_layout(self.data.descriptor_set_layout, None);
@@ -186,7 +186,7 @@ We should have multiple buffers, because multiple frames may be in flight at the
 
 To that end, add new `AppData` fields for `uniform_buffers`, and `uniform_buffers_memory`:
 
-```rust,noplaypen
+```rust
 struct AppData {
     // ...
     index_buffer: vk::Buffer,
@@ -199,7 +199,7 @@ struct AppData {
 
 Similarly, create a new function `create_uniform_buffers` that is called after `create_index_buffer` and allocates the buffers:
 
-```rust,noplaypen
+```rust
 impl App {
     unsafe fn create(window: &Window) -> Result<Self> {
         // ...
@@ -238,7 +238,7 @@ unsafe fn create_uniform_buffers(
 
 We're going to write a separate function that updates the uniform buffer with a new transformation every frame, so there will be no `map_memory` here. The uniform data will be used for all draw calls, so the buffer containing it should only be destroyed when we stop rendering. Since it also depends on the number of swapchain images, which could change after a recreation, we'll clean it up in `destroy_swapchain`:
 
-```rust,noplaypen
+```rust
 unsafe fn destroy_swapchain(&mut self) {
     self.data.uniform_buffers
         .iter()
@@ -252,7 +252,7 @@ unsafe fn destroy_swapchain(&mut self) {
 
 This means that we also need to recreate it in `recreate_swapchain`:
 
-```rust,noplaypen
+```rust
 unsafe fn recreate_swapchain(&mut self, window: &Window) -> Result<()> {
     // ...
     create_framebuffers(&self.device, &mut self.data)?;
@@ -266,7 +266,7 @@ unsafe fn recreate_swapchain(&mut self, window: &Window) -> Result<()> {
 
 Create a new method `App::update_uniform_buffer` and add a call to it from the `App::render` method right after we wait for the fence for the acquired swapchain image to be signalled:
 
-```rust,noplaypen
+```rust
 impl App {
     unsafe fn render(&mut self, window: &Window) -> Result<()> {
         // ...
@@ -301,13 +301,13 @@ Our uniform buffers are associated with our swapchain images, so we need to be s
 
 Going back to `App::update_uniform_buffer`, this method will generate a new transformation every frame to make the geometry spin around. We need to add an import to implement this functionality:
 
-```rust,noplaypen
+```rust
 use std::time::Instant;
 ```
 
 The `Instant` struct will allow us to do precise timekeeping. We'll use this to make sure that the geometry rotates 90 degrees per second regardless of frame rate. Add a field to `App` to track the time the application started and initialize the field to `Instant::now()` in `App::create`:
 
-```rust,noplaypen
+```rust
 struct App {
     // ...
     start: Instant,
@@ -316,7 +316,7 @@ struct App {
 
 We can now use that field to determine how many seconds it has been since the application started:
 
-```rust,noplaypen
+```rust
 unsafe fn update_uniform_buffer(&self, image_index: usize) -> Result<()> {
     let time = self.start.elapsed().as_secs_f32();
 
@@ -326,7 +326,7 @@ unsafe fn update_uniform_buffer(&self, image_index: usize) -> Result<()> {
 
 We will now define the model, view and projection transformations in the uniform buffer object. The model rotation will be a simple rotation around the Z-axis using the `time` variable:
 
-```rust,noplaypen
+```rust
 let model = Mat4::from_axis_angle(
     vec3(0.0, 0.0, 1.0),
     Deg(90.0) * time
@@ -335,7 +335,7 @@ let model = Mat4::from_axis_angle(
 
 The `Mat4::from_axis_angle` function creates a transformation matrix from the given rotation angle and rotation axis. Using a rotation angle of `Deg(90.0) * time` accomplishes the purpose of rotating 90 degrees per second.
 
-```rust,noplaypen
+```rust
 let view = Mat4::look_at_rh(
     point3(2.0, 2.0, 2.0),
     point3(0.0, 0.0, 0.0),
@@ -345,7 +345,7 @@ let view = Mat4::look_at_rh(
 
 For the view transformation I've decided to look at the geometry from above at a 45 degree angle. The `Mat4::look_at_rh` function takes the eye position, center position and up axis as parameters. The `rh` at the end of this function indicates that it uses the "right-handed" coordinate system which is the coordinate system that Vulkan uses.
 
-```rust,noplaypen
+```rust
 let mut proj = cgmath::perspective(
     Deg(45.0),
     self.data.swapchain_extent.width as f32 / self.data.swapchain_extent.height as f32,
@@ -356,13 +356,13 @@ let mut proj = cgmath::perspective(
 
 I've chosen to use a perspective projection with a 45 degree vertical field-of-view. The other parameters are the aspect ratio, near and far view planes. It is important to use the current swapchain extent to calculate the aspect ratio to take into account the new width and height of the window after a resize.
 
-```rust,noplaypen
+```rust
 proj[1][1] *= -1.0;
 ```
 
 `cgmath` was originally designed for OpenGL, where the Y coordinate of the clip coordinates is inverted. The easiest way to compensate for that is to flip the sign on the scaling factor of the Y axis in the projection matrix. If you don't do this, then the image will be rendered upside down.
 
-```rust,noplaypen
+```rust
 let ubo = UniformBufferObject { model, view, proj };
 ```
 
@@ -370,7 +370,7 @@ Lastly we combine our matrices into a uniform buffer object.
 
 All of the transformations are defined now, so we can copy the data in the uniform buffer object to the current uniform buffer. This happens in exactly the same way as we did for vertex buffers, except without a staging buffer:
 
-```rust,noplaypen
+```rust
 let memory = self.device.map_memory(
     self.data.uniform_buffers_memory[image_index],
     0,

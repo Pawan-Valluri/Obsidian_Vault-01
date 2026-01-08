@@ -1,0 +1,9 @@
+````xml
+<resources>
+    <!-- Base application theme -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Customize your theme here -->
+    </style>
+</resources>
+
+````

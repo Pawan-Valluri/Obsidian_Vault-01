@@ -1,0 +1,36 @@
+# Introduction
+
+In previous versions of Vulkan, before we could finish creating the pipeline, we needed to tell Vulkan about the framebuffer attachments that would be used while rendering through a render pass object. However, with the introduction of dynamic rendering in Vulkan 1.3, we can now specify this information directly when creating the graphics pipeline and when recording command buffers.
+
+Dynamic rendering simplifies the rendering process by eliminating the need for render pass and framebuffer objects. Instead, we can specify the color, depth, and stencil attachments directly when we begin rendering.
+
+# Pipeline Rendering Create Info
+
+To use dynamic rendering, we need to specify the formats of the attachments that will be used during rendering. This is done through the `vk::PipelineRenderingCreateInfo` structure when creating the graphics pipeline:
+
+``` c++
+vk::PipelineRenderingCreateInfo pipelineRenderingCreateInfo{ .colorAttachmentCount = 1, .pColorAttachmentFormats = &swapChainImageFormat };
+```
+
+This structure specifies that we’ll be using one color attachment with the format of our swap chain images. We then include this structure in the `pNext` chain of the `vk::GraphicsPipelineCreateInfo` structure:
+
+``` c++
+vk::GraphicsPipelineCreateInfo pipelineInfo{ .pNext = &pipelineRenderingCreateInfo,
+    .stageCount = 2, .pStages = shaderStages,
+    .pVertexInputState = &vertexInputInfo, .pInputAssemblyState = &inputAssembly,
+    .pViewportState = &viewportState, .pRasterizationState = &rasterizer,
+    .pMultisampleState = &multisampling, .pColorBlendState = &colorBlending,
+    .pDynamicState = &dynamicState, .layout = pipelineLayout, .renderPass = nullptr };
+```
+
+Note that the `renderPass` parameter is set to `nullptr` because we’re using dynamic rendering instead of a traditional render pass.
+
+# Command Buffer Recording
+
+When recording command buffers, we’ll use the `vk::CommandBuffer::beginRendering` function to start rendering to the specified attachments. We’ll cover this in more detail in the Drawing chapter.
+
+The advantage of dynamic rendering is that it simplifies the rendering process by eliminating the need for render pass and framebuffer objects. It also provides more flexibility by allowing us to change the attachments we’re rendering to without creating new render pass objects.
+
+In the [next chapter](04_Conclusion.md), we’ll put everything together to finally create the graphics pipeline object!
+
+[C++ code](12_graphics_pipeline_complete.cpp.md) / [Slang shader](09_shader_base.slang.md) / [GLSL Vertex shader](09_shader_base.vert.md) / [GLSL Fragment shader](09_shader_base.frag.md)

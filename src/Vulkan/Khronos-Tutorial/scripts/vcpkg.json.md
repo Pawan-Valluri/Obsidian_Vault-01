@@ -1,0 +1,15 @@
+```json
+{
+  "name": "vulkan-tutorial",
+  "version": "1.0.0",
+  "dependencies": [
+    "glfw3",
+    "glm",
+    "tinyobjloader",
+    "stb",
+    "tinygltf",
+    "nlohmann-json",
+    "ktx"
+  ]
+}
+```

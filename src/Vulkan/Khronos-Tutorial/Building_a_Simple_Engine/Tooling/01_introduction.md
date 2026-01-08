@@ -1,0 +1,35 @@
+# Introduction to Engine Tooling
+
+In previous chapters, we’ve built the foundation of our simple engine, implementing core components like the rendering pipeline, camera systems, model loading, and essential subsystems like audio and physics. Now, we’re ready to explore the tooling ecosystem that supports the development, debugging, and distribution of a professional Vulkan application.
+
+Effective tooling is critical for maintaining productivity, ensuring quality, and delivering a robust final product. While these tools may seem separate from the engine itself, they are integral to the development process and can significantly impact the quality and maintainability of your code.
+
+## What We’ll Cover
+
+This chapter will equip you with the professional tooling ecosystem that transforms a working Vulkan application into a maintainable, debuggable, and deployable product. We’ll begin by implementing a continuous integration and continuous deployment pipeline specifically designed for Vulkan’s unique requirements. This foundation ensures that your application builds consistently across platforms while catching integration issues before they reach users.
+
+Debugging Vulkan applications presents unique challenges that traditional debugging approaches can’t address effectively. We’ll master both Vulkan’s built-in debugging extensions like VK_KHR_debug_utils and external tools like RenderDoc, creating a comprehensive debugging workflow that can diagnose everything from validation layer warnings to complex rendering pipeline issues.
+
+Robust crash handling becomes crucial as your application moves toward production deployment. We’ll implement systems that can gracefully handle unexpected failures, generate detailed minidumps for post-mortem analysis, and provide users with meaningful recovery options rather than abrupt terminations.
+
+Finally, we’ll explore Vulkan extensions designed specifically for application robustness, such as VK_EXT_robustness2, which help your application handle edge cases and undefined behavior gracefully. These extensions transform potential crashes into recoverable situations, improving the overall user experience.
+
+## Prerequisites
+
+This chapter assumes solid understanding of the Vulkan fundamentals and engine architecture we’ve built throughout the previous chapters. The tooling we’ll implement needs to integrate with your existing systems—CI/CD pipelines must understand your project structure, debugging tools must work with your rendering pipeline, and crash handling must respect your engine’s resource management patterns.
+
+Experience with modern C concepts becomes particularly important here, as professional tooling often leverages advanced language features for reliability and maintainability. C17 and C++20 features like structured bindings, concepts, and coroutines appear frequently in production tooling code, and understanding these patterns will help you implement robust solutions.
+
+A basic familiarity with software development workflows and tools will provide context for the systems we’ll build. While we’ll explain the specific implementations, understanding why continuous integration matters, how debugging fits into development cycles, and why crash reporting improves user experience will help you appreciate the architectural decisions we make throughout this chapter.
+
+You should also be familiar with the following chapters from the main tutorial:
+
+- Basic Vulkan concepts:
+  - [Command buffers](01_Command_buffers.md)
+  - [Graphics pipelines](00_Introduction.md)
+- [Vertex](00_Vertex_input_description.md) and [index buffers](03_Index_buffer.md)
+- [Uniform buffers](00_Descriptor_set_layout_and_buffer.md)
+
+Let’s begin by exploring how to set up a CI/CD pipeline for Vulkan projects.
+
+[Previous: Subsystems Conclusion](06_conclusion.md) \| [Next: CI/CD for Vulkan Projects](02_cicd.md)

@@ -1,0 +1,15 @@
+````json
+{
+  "name": "vulkan-game-engine-tutorial",
+  "version": "1.0.0",
+  "dependencies": [
+    "glfw3",
+    "glm",
+    "openal-soft",
+    "ktx",
+    "tinygltf",
+    "nlohmann-json"
+  ]
+}
+
+````

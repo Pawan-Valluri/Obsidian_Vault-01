@@ -1,0 +1,6 @@
+````xml
+<resources>
+    <string name="app_name">Vulkan Tutorial</string>
+</resources>
+
+````

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0564d5664de9663",
+        "id": "28cd10ce775de57e",
         "type": "tabs",
         "children": [
           {
-            "id": "225f7ecd1427f69a",
+            "id": "2ddc1879b32d70fb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "src/Vulkan/vulkan-diagrams/README.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "src/Vulkan/vulkan-diagrams/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,52 +169,53 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3d3f474376d54a1a",
+  "active": "2ddc1879b32d70fb",
   "lastOpenFiles": [
-    "src/Vulkan/vulkan-diagrams/README.pdf",
-    "README.md",
-    "onstants](.md",
-    "src/Vulkan/vulkan-diagrams/README.md",
-    "src/Vulkan/vulkan-diagrams/Images/barrier.png",
-    "src/Vulkan/vulkan-diagrams/Images/barrier.svg",
-    "src/Vulkan/vulkan-diagrams/Images/boiler_plate.png",
-    "src/Vulkan/vulkan-diagrams/Images/boiler_plate.svg",
-    "src/Vulkan/vulkan-diagrams/Images/descriptor_sets.png",
-    "src/Vulkan/vulkan-diagrams/Images/descriptor_sets.svg",
-    "src/Vulkan/vulkan-diagrams/Images/fence_synchronization.png",
-    "src/Vulkan/vulkan-diagrams/Images/fence_synchronization.svg",
-    "src/Vulkan/vulkan-diagrams/Images/push_constants.png",
-    "src/Vulkan/vulkan-diagrams/Images/push_constants.svg",
-    "src/Vulkan/vulkan-diagrams/Images/README.pdf",
-    "src/Vulkan/vulkan-diagrams/Images",
-    "src/Vulkan/vulkan-diagrams/test.pdf",
-    "src/Vulkan/vulkan-diagrams/test.md",
-    "src/Vulkan/vulkan-diagrams/LICENSE",
-    "src/Vulkan/vulkan-diagrams",
-    "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/nondeforme.blend",
-    "src/Vulkan/Rust Vulkan Tutorial/images/viking_room.obj",
-    "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource",
-    "src/Vulkan/Rust Vulkan Tutorial/Resources/Projection.md",
-    "src/Vulkan/Rust Vulkan Tutorial/Resources/Matrices and Quaternions.md",
-    "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes/37 - Secondary command buffers.md",
-    "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes/36 - Recycling command buffers.md",
-    "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes/35 - Push constants.md",
-    "src/Vulkan/Rust Vulkan Tutorial/33 - Rendering quality/34 - Multisampling.md",
-    "src/Vulkan/Rust Vulkan Tutorial/33 - Rendering quality/33 - Generating mipmaps.md",
-    "src/Vulkan/Rust Vulkan Tutorial/31 - Model/32 - Loading models.md",
-    "src/Vulkan/Rust Vulkan Tutorial/31 - Model/31 - Depth buffering.md",
-    "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping/30 - Combined image sampler.md",
-    "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping/29 - Image view and sampler.md",
-    "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping/28 - Images.md",
-    "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/27 - Descriptor pool and sets.md",
-    "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/26 - Descriptor set layout and buffer.md",
-    "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/25 - Index buffer.md",
-    "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/24 - Staging buffer.md",
-    "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/23 - Vertex buffer creation.md",
-    "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/22 - Vertex input description.md",
-    "src/Vulkan/Rust Vulkan Tutorial/21 - Swapchain/21 - Recreation.md",
-    "src/Vulkan/Rust Vulkan Tutorial/18 - Drawing/20 - Rendering and presentation.md",
-    "src/Vulkan/Rust Vulkan Tutorial/18 - Drawing/19 - Command buffers.md",
-    "src/Vulkan/Rust Vulkan Tutorial/images"
+    "src/Vulkan/Khronos-Tutorial/images/38_TASK07_shadows_dynamic.gif.part",
+    "src/Vulkan/Khronos-Tutorial/images/38_TASK06_shadows_static.gif",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/plant_on_table_textures/wooden_picnic_table_top_diff_1k.png",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/plant_on_table_textures/wooden_picnic_table_bottom_diff_1k.png",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/plant_on_table_textures/potted_plant_02_pot_diff_1k.png",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/plant_on_table_textures/nettle_plant_diff_4k.png",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/viking_room.png",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/viking_room.obj",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/viking_room.ktx2",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/viking_room.glb",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/plant_on_table_textures",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/plant_on_table.mtl",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets/plant_on_table.obj",
+    "src/Vulkan/Khronos-Tutorial/attachments/assets",
+    "src/Vulkan/Khronos-Tutorial/images/38_TASK06_shadows_static.gif.part",
+    "src/Vulkan/Khronos-Tutorial/images/service_locator_pattern_diagram.svg",
+    "src/Vulkan/Khronos-Tutorial/images/triangle_coordinates.svg",
+    "src/Vulkan/Khronos-Tutorial/images/vulkan_simplified_pipeline.svg",
+    "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/03_Ray_query_shadows.md",
+    "src/Vulkan/Khronos-Tutorial/images/38_TASK01_renderdoc_color.gif",
+    "src/Vulkan/Khronos-Tutorial/06_Texture_mapping/01_Image_view_and_sampler.md",
+    "src/Vulkan/Khronos-Tutorial/scripts/vcpkg.json.md",
+    "src/Vulkan/Khronos-Tutorial/scripts/install_dependencies_windows.bat.md",
+    "src/Vulkan/Khronos-Tutorial/scripts/install_dependencies_linux.sh.md",
+    "src/Vulkan/Khronos-Tutorial/README.md",
+    "src/Vulkan/Khronos-Tutorial/scripts/install_dependencies_linux.sh",
+    "src/Vulkan/Khronos-Tutorial/scripts/install_dependencies_windows.bat",
+    "attachments/26_texture_mapping.cpp.md",
+    "src/Vulkan/Khronos-Tutorial/06_Texture_mapping/02_Combined_image_sampler.md",
+    "src/Vulkan/Khronos-Tutorial/06_Texture_mapping/00_Images.md",
+    "src/Vulkan/Khronos-Tutorial/00_Introduction.md",
+    "src/Vulkan/Khronos-Tutorial/conclusion.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/vcpkg.json.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/CMakeLists.txt.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/cpp/CMakeLists.txt.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/CMakeLists.txt.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/mikktspace.c.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com/vulkan/tutorial/VulkanActivity.java.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/fetch_bistro_assets.bat.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/install_dependencies_windows.bat.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/31_shader_compute.comp.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/37_shader_compute.comp.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/android/gradle.properties.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/android/gradle/wrapper/gradle-wrapper.properties.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/android/build.gradle.md",
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/build.gradle.md"
   ]
 }

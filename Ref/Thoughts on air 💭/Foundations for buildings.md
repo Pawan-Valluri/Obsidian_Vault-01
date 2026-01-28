@@ -1,0 +1,1 @@
+How are foundations for buildings laid. There's clearly a great knowledge of it as our temples last for centuries and may multi storey building, forts etc. all of it wouldn't be possible without great foundations. How were they laid?

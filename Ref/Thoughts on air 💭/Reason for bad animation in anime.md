@@ -1,0 +1,3 @@
+Generally it's due to budget issues. But it primarily depends on values. When a writer plays with stories and characters like toys and that when faced with studios that are constrained to costs, this bad quality is an absolute happening.
+
+But if the writer and the studio values or understands that THEY are the toys, tools or slaves to the story and characters; bad animation is far from a possibility.

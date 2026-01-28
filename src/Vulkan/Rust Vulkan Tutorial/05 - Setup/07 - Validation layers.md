@@ -264,7 +264,7 @@ Although we've now added debugging with validation layers to the program we're n
 
 However, if you closely read the [extension documentation](https://github.com/KhronosGroup/Vulkan-Docs/blob/77d9f42e075e6a483a37351c14c5e9e3122f9113/appendices/VK_EXT_debug_utils.txt#L84-L91), you'll see that there is a way to create a separate debug utils messenger specifically for those two function calls. It requires you to simply pass a pointer to a `vk::DebugUtilsMessengerCreateInfoEXT` struct in the `next` extension field of `vk::InstanceCreateInfo`. Before we do this, let's first discuss how extending structs works in Vulkan.
 
-The `s_type` field that is present on many Vulkan structs was briefly mentioned in the [Builders section](../overview.html#builders) of the Overview chapter. It was said that this field must be set to the `vk::StructureType` variant indicating the type of the struct (e.g., `vk::StructureType::APPLICATION_INFO` for a `vk::ApplicationInfo` struct).
+The `s_type` field that is present on many Vulkan structs was briefly mentioned in the [[02 - Overview#Builders|Builders section of the Overview Chapter]] of the Overview chapter. It was said that this field must be set to the `vk::StructureType` variant indicating the type of the struct (e.g., `vk::StructureType::APPLICATION_INFO` for a `vk::ApplicationInfo` struct).
 
 You may have wondered what the purpose of this field is: doesn't Vulkan already know the type of structs passed to its commands? The purpose of this field is wrapped up with the purpose of the `next` field that always accompanies the `s_type` field in Vulkan structs: the ability to *extend* a Vulkan struct with other Vulkan structs.
 

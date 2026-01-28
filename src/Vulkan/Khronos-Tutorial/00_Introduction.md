@@ -13,8 +13,7 @@ Compared to the original tutorial, this version of the tutorial is teaching up-t
 - Modern C++ (20) with modules
 - [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) with [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization)
 
-It also contains Vulkan usage clarifications, improved synchronization and new content.
-
+It also contains Vulkan usage clarifications, improved synchronization and new content.  
 # About
 
 This tutorial will teach you the basics of using the [Vulkan](https://www.khronos.org/vulkan/) graphics and compute API. Vulkan is an API by the [Khronos group](https://www.khronos.org/) that provides a much better abstraction of modern graphics cards. This new interface allows you to better describe what your application intends to do, which can lead to better performance and less surprising driver behavior compared to existing APIs like [OpenGL](https://en.wikipedia.org/wiki/OpenGL) and [Direct3D](https://en.wikipedia.org/wiki/Direct3D). The ideas behind Vulkan are similar to those of [Direct3D 12](https://en.wikipedia.org/wiki/Direct3D#Direct3D_12) and [Metal](https://en.wikipedia.org/wiki/Metal_(API)), but Vulkan has the advantage of being fully cross-platform and allows you to develop for Windows, Linux and Android at the same time.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/26 - Descriptor set layout and buffer.md",
-                "mode": "preview",
+                "file": "Ref/Features or objects/Vishnavites vs shivites vs Shakti war.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "26 - Descriptor set layout and buffer"
+              "title": "Vishnavites vs shivites vs Shakti war"
             }
           },
           {
@@ -46,8 +46,19 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-12-01 01.42.58.excalidraw"
             }
+          },
+          {
+            "id": "a1efa15ba2342887",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -62,7 +73,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "custom",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -75,7 +86,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "tag:#Environmental",
+            "query": "Ornamental ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -155,7 +166,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/26 - Descriptor set layout and buffer.md",
+            "file": "Ref/Thoughts on air 💭/Preventive penalty vs encouragement in order to prevent and reality itself.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -178,51 +189,51 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d0fdb1a9acd4576",
+  "active": "a1efa15ba2342887",
   "lastOpenFiles": [
-    "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/27 - Descriptor pool and sets.md",
-    "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/26 - Descriptor set layout and buffer.md",
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/06_conclusion.md",
+    "src/Vulkan/Rust Vulkan Tutorial/04 - FAQ.md",
+    "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup/00_Base_code.md",
+    "src/Vulkan/Rust Vulkan Tutorial/02 - Overview.md",
+    "src/Vulkan/Rust Vulkan Tutorial/05 - Setup/07 - Validation layers.md",
+    "02.md",
+    "Ref/Features or objects/Vishnavites vs shivites vs Shakti war.md",
+    "Ref/Inspirations/A new element.md",
+    "Ref/State of Play - How Weapons or Play Shapes how you experience everything else.md",
+    "Ref/Thoughts on air 💭/Trasliterated Names.md",
+    "Ref/Thoughts on air 💭/Tattoos and Decals.md",
+    "Ref/Thoughts on air 💭/State of play.md",
+    "Ref/Thoughts on air 💭/Hidden beyond the Hidden.md",
+    "Ref/Thoughts on air 💭/Flow in spiritual content or teaching.md",
+    "Ref/Thoughts on air 💭/Geopolitics and Storytelling.md",
+    "Ref/Thoughts on air 💭/God Varun is the Fire in the Ocean.md",
+    "Ref/Thoughts on air 💭/Elaborate Fail-safes.md",
+    "Ref/Thoughts on air 💭/Dialogues in Menu(pause, start).md",
+    "Ref/Thoughts on air 💭/Desire.md",
+    "Ref/Thoughts on air 💭/Cant kill Innocent NPCs.md",
+    "Ref/Thoughts on air 💭/Architecting worlds and Mandala art.md",
+    "Ref/Thoughts on air 💭/Artist vs Audience Perception in Art.md",
+    "Ref/Thoughts on air 💭/Archetypes.md",
+    "Ref/Thoughts on air 💭/Repurposing Broken Swords.md",
+    "Ref/Thoughts on air 💭/Foundations for buildings.md",
+    "Ref/Thoughts on air 💭/Preventive penalty vs encouragement in order to prevent and reality itself.md",
+    "Images/Ornamental_katar.jpg",
     "Images/featured-one-piece-best-backstories-in-the-series-oden-law-kuma.jpg",
     "Thinking model architecture.canvas",
-    "README.md",
-    "Drawing 2025-12-01 01.42.58.excalidraw.md",
-    "Base64-Image-Removed.md",
-    "Ref/Thoughts on air 💭/Archetypes.md",
-    "src/Vulkan/vulkan-diagrams/README.md",
     "src/Vulkan/vulkan-diagrams/README.pdf",
-    "Ref/Thoughts on air 💭/God Varun is the Fire in the Ocean.md",
-    "Ref/Thoughts on air 💭/Comparison with other games or pieces if art.md",
-    "Ref/Thoughts on air 💭/Artist vs Audience Perception in Art.md",
     "Images/20250408174146_1.jpg",
-    "Ref/Thoughts on air 💭/Tattoos and Decals.md",
-    "Ref/Thoughts on air 💭/Title screen.md",
-    "Ref/Geopolitics, Raceology, and Storytelling — Through the Lens of Hindu Narrative Tradition🔥.md",
-    "Ref/Thoughts on air 💭/Storytelling guide (by 3rd party).md",
-    "Ref/Lighting/References.md",
-    "Ref/Dialogues on air 💬/A simple merchant.md",
-    "Ref/Dialogues on air 💬/Pelted by rains.md",
-    "Ref/Dialogues on air 💬/RUUUUUUUUNNNNNN(angrily).md",
-    "Ref/Dialogues on air 💬/The empty hand.md",
     "Images/Achilles dialogue.jpg",
     "Images/Screenshot_20251230-141044 1.png",
     "Images/Screenshot_20251230-141044.png",
-    "Ref/Inspirations/Lighting.md",
     "Ref/Lighting",
-    "Ref/Thoughts on air 💭/Desire.md",
-    "Ref/Thoughts on air 💭/Societal Hierarchies.md",
-    "Ref/Features or objects/Color Tones, Tonemapping.md",
-    "Ref/Inspirations/Animations.md",
-    "Ref/Inspirations/Races and regions.md",
-    "Ref/State of Play - How Weapons or Play Shapes how you experience everything else.md",
     "Achilles dialogue.jpg",
     "Images/One-Piece-10-Most-Tragic-Backstories-From-Side-Characters.jpg",
     "Images/sivagami-being-badass.jpg",
     "Images/Sathyaraj-1.jpg",
     "Images",
-    "Ref/Thoughts on air 💭/Better hiding spot.png",
     "Ref/Dialogues on air 💬",
     "Ref/Thoughts on air 💭",
     "Ref/Storyboard/Before world transfer",

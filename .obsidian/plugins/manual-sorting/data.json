@@ -1,0 +1,1080 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "_.obsidian",
+        "Images",
+        "Ref",
+        "src",
+        "Drawing 2025-12-01 01.42.58.excalidraw.md",
+        "README.md",
+        "Thinking model architecture.canvas"
+      ],
+      "sortOrder": "custom"
+    },
+    "_.obsidian": {
+      "children": [
+        "_.obsidian/plugins"
+      ],
+      "sortOrder": "custom"
+    },
+    "_.obsidian/plugins": {
+      "children": [
+        "_.obsidian/plugins/obsidian-excalidraw-plugin"
+      ],
+      "sortOrder": "custom"
+    },
+    "_.obsidian/plugins/obsidian-excalidraw-plugin": {
+      "children": [],
+      "sortOrder": "custom"
+    },
+    "Images": {
+      "children": [
+        "Images/Ornamental_katar.jpg",
+        "Images/20250408174146_1.jpg",
+        "Images/Achilles dialogue.jpg",
+        "Images/featured-one-piece-best-backstories-in-the-series-oden-law-kuma.jpg",
+        "Images/One-Piece-10-Most-Tragic-Backstories-From-Side-Characters.jpg",
+        "Images/Sathyaraj-1.jpg",
+        "Images/Screenshot_20251230-141044.png",
+        "Images/Screenshot_20251230-141044 1.png",
+        "Images/sivagami-being-badass.jpg"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref": {
+      "children": [
+        "Ref/Dialogues on air 💬",
+        "Ref/Features or objects",
+        "Ref/Inspirations",
+        "Ref/Lighting",
+        "Ref/Scenarios",
+        "Ref/Storyboard",
+        "Ref/Thoughts on air 💭",
+        "Ref/Geopolitics, Raceology, and Storytelling — Through the Lens of Hindu Narrative Tradition🔥.md",
+        "Ref/State of Play - How Weapons or Play Shapes how you experience everything else.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Dialogues on air 💬": {
+      "children": [
+        "Ref/Dialogues on air 💬/Dance of life.md",
+        "Ref/Dialogues on air 💬/A simple merchant.md",
+        "Ref/Dialogues on air 💬/Pelted by rains.md",
+        "Ref/Dialogues on air 💬/RUUUUUUUUNNNNNN(angrily).md",
+        "Ref/Dialogues on air 💬/The empty hand.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Features or objects": {
+      "children": [
+        "Ref/Features or objects/AI companion",
+        "Ref/Features or objects/Color Tones, Tonemapping.md",
+        "Ref/Features or objects/Dogs.md",
+        "Ref/Features or objects/Education.md",
+        "Ref/Features or objects/Painkiller or Shilajit.md",
+        "Ref/Features or objects/Occasional Crazy Thunderstorms.md",
+        "Ref/Features or objects/Perfume in function entry.md",
+        "Ref/Features or objects/Rangoli.md",
+        "Ref/Features or objects/Ruins.md",
+        "Ref/Features or objects/Sight issues and lenses.md",
+        "Ref/Features or objects/Startup.md",
+        "Ref/Features or objects/Unique Lighting and color tones for unique areas.md",
+        "Ref/Features or objects/Vishnavites vs shivites vs Shakti war.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Features or objects/AI companion": {
+      "children": [
+        "Ref/Features or objects/AI companion/AI companion.md",
+        "Ref/Features or objects/AI companion/Implementation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Inspirations": {
+      "children": [
+        "Ref/Inspirations/A new element.md",
+        "Ref/Inspirations/Animations.md",
+        "Ref/Inspirations/Floating islands.md",
+        "Ref/Inspirations/Lighting.md",
+        "Ref/Inspirations/Races and regions.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Lighting": {
+      "children": [
+        "Ref/Lighting/References.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Scenarios": {
+      "children": [
+        "Ref/Scenarios/A yogi identifies your true nature.md",
+        "Ref/Scenarios/Love letter is a song.md",
+        "Ref/Scenarios/Mom's beats son, but she cries.md",
+        "Ref/Scenarios/Pillars' stories.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Storyboard": {
+      "children": [
+        "Ref/Storyboard/Before world transfer",
+        "Ref/Storyboard/World building and story telling.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Storyboard/Before world transfer": {
+      "children": [
+        "Ref/Storyboard/Before world transfer/Previous world and entry of humans.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Ref/Thoughts on air 💭": {
+      "children": [
+        "Ref/Thoughts on air 💭/Reason for bad animation in anime.md",
+        "Ref/Thoughts on air 💭/Preventive penalty vs encouragement in order to prevent and reality itself.md",
+        "Ref/Thoughts on air 💭/Pfaridin.md",
+        "Ref/Thoughts on air 💭/Foundations for buildings.md",
+        "Ref/Thoughts on air 💭/Repurposing Broken Swords.md",
+        "Ref/Thoughts on air 💭/Archetypes.md",
+        "Ref/Thoughts on air 💭/Artist vs Audience Perception in Art.md",
+        "Ref/Thoughts on air 💭/Better hiding spot.png",
+        "Ref/Thoughts on air 💭/Architecting worlds and Mandala art.md",
+        "Ref/Thoughts on air 💭/Cant kill Innocent NPCs.md",
+        "Ref/Thoughts on air 💭/Comparison with other games or pieces if art.md",
+        "Ref/Thoughts on air 💭/Desire.md",
+        "Ref/Thoughts on air 💭/Dialogues in Menu(pause, start).md",
+        "Ref/Thoughts on air 💭/Elaborate Fail-safes.md",
+        "Ref/Thoughts on air 💭/Flow in spiritual content or teaching.md",
+        "Ref/Thoughts on air 💭/Geopolitics and Storytelling.md",
+        "Ref/Thoughts on air 💭/God Varun is the Fire in the Ocean.md",
+        "Ref/Thoughts on air 💭/Hidden beyond the Hidden.md",
+        "Ref/Thoughts on air 💭/how to introduce culture and lore.md",
+        "Ref/Thoughts on air 💭/In the head Bro.md",
+        "Ref/Thoughts on air 💭/My Style.md",
+        "Ref/Thoughts on air 💭/Narrative Dissonance.md",
+        "Ref/Thoughts on air 💭/Societal Hierarchies.md",
+        "Ref/Thoughts on air 💭/Public board meeting.md",
+        "Ref/Thoughts on air 💭/State of play.md",
+        "Ref/Thoughts on air 💭/Storytelling guide (by 3rd party).md",
+        "Ref/Thoughts on air 💭/Subtle variations.md",
+        "Ref/Thoughts on air 💭/Tattoos and Decals.md",
+        "Ref/Thoughts on air 💭/Title screen.md",
+        "Ref/Thoughts on air 💭/Trasliterated Names.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src": {
+      "children": [
+        "src/Vulkan"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial",
+        "src/Vulkan/Rust Vulkan Tutorial",
+        "src/Vulkan/vulkan-diagrams"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments",
+        "src/Vulkan/Khronos-Tutorial/images",
+        "src/Vulkan/Khronos-Tutorial/scripts",
+        "src/Vulkan/Khronos-Tutorial/00_Introduction.md",
+        "src/Vulkan/Khronos-Tutorial/01_Overview.md",
+        "src/Vulkan/Khronos-Tutorial/02_Development_environment.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle",
+        "src/Vulkan/Khronos-Tutorial/04_Vertex_buffers",
+        "src/Vulkan/Khronos-Tutorial/05_Uniform_buffers",
+        "src/Vulkan/Khronos-Tutorial/06_Texture_mapping",
+        "src/Vulkan/Khronos-Tutorial/07_Depth_buffering.md",
+        "src/Vulkan/Khronos-Tutorial/08_Loading_models.md",
+        "src/Vulkan/Khronos-Tutorial/09_Generating_Mipmaps.md",
+        "src/Vulkan/Khronos-Tutorial/10_Multisampling.md",
+        "src/Vulkan/Khronos-Tutorial/11_Compute_Shader.md",
+        "src/Vulkan/Khronos-Tutorial/12_Ecosystem_Utilities_and_Compatibility.md",
+        "src/Vulkan/Khronos-Tutorial/13_Vulkan_Profiles.md",
+        "src/Vulkan/Khronos-Tutorial/14_Android.md",
+        "src/Vulkan/Khronos-Tutorial/15_GLTF_KTX2_Migration.md",
+        "src/Vulkan/Khronos-Tutorial/16_Multiple_Objects.md",
+        "src/Vulkan/Khronos-Tutorial/17_Multithreading.md",
+        "src/Vulkan/Khronos-Tutorial/18_Ray_tracing.md",
+        "src/Vulkan/Khronos-Tutorial/courses",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine",
+        "src/Vulkan/Khronos-Tutorial/conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/README.md",
+        "src/Vulkan/Khronos-Tutorial/90_FAQ.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/01_Presentation",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/02_Graphics_pipeline_basics",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/03_Drawing",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/04_Swap_chain_recreation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup/00_Base_code.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup/01_Instance.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup/02_Validation_layers.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup/03_Physical_devices_and_queue_families.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/00_Setup/04_Logical_device_and_queues.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/01_Presentation": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/01_Presentation/00_Window_surface.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/01_Presentation/01_Swap_chain.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/01_Presentation/02_Image_views.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/02_Graphics_pipeline_basics": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/02_Graphics_pipeline_basics/00_Introduction.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/02_Graphics_pipeline_basics/01_Shader_modules.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/02_Graphics_pipeline_basics/02_Fixed_functions.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/02_Graphics_pipeline_basics/03_Render_passes.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/02_Graphics_pipeline_basics/04_Conclusion.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/03_Drawing": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/03_Drawing/00_Framebuffers.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/03_Drawing/01_Command_buffers.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/03_Drawing/02_Rendering_and_presentation.md",
+        "src/Vulkan/Khronos-Tutorial/03_Drawing_a_triangle/03_Drawing/03_Frames_in_flight.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/04_Vertex_buffers": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/04_Vertex_buffers/00_Vertex_input_description.md",
+        "src/Vulkan/Khronos-Tutorial/04_Vertex_buffers/01_Vertex_buffer_creation.md",
+        "src/Vulkan/Khronos-Tutorial/04_Vertex_buffers/02_Staging_buffer.md",
+        "src/Vulkan/Khronos-Tutorial/04_Vertex_buffers/03_Index_buffer.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/05_Uniform_buffers": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/05_Uniform_buffers/00_Descriptor_set_layout_and_buffer.md",
+        "src/Vulkan/Khronos-Tutorial/05_Uniform_buffers/01_Descriptor_pool_and_sets.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/06_Texture_mapping": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/06_Texture_mapping/00_Images.md",
+        "src/Vulkan/Khronos-Tutorial/06_Texture_mapping/01_Image_view_and_sampler.md",
+        "src/Vulkan/Khronos-Tutorial/06_Texture_mapping/02_Combined_image_sampler.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine",
+        "src/Vulkan/Khronos-Tutorial/attachments/00_base_code.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/01_instance_creation.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/02_validation_layers.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/03_physical_device_selection.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/04_logical_device.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/05_window_surface.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/06_swap_chain_creation.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/07_image_views.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/08_graphics_pipeline.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/09_shader_base.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/09_shader_base.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/09_shader_base.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/09_shader_modules.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/10_fixed_functions.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/12_graphics_pipeline_complete.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/14_command_buffers.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/15_hello_triangle.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/16_frames_in_flight.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/17_swap_chain_recreation.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/18_shader_vertexbuffer.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/18_shader_vertexbuffer.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/18_shader_vertexbuffer.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/18_vertex_input.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/19_vertex_buffer.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/20_staging_buffer.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/21_index_buffer.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/22_descriptor_layout.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/22_shader_ubo.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/22_shader_ubo.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/22_shader_ubo.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/23_descriptor_sets.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/24_texture_image.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/25_sampler.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/26_shader_textures.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/26_shader_textures.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/26_shader_textures.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/26_texture_mapping.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/27_depth_buffering.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/27_shader_depth.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/27_shader_depth.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/27_shader_depth.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/28_model_loading.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/29_mipmapping.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/30_multisampling.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/31_compute_shader.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/31_shader_compute.comp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/31_shader_compute.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/31_shader_compute.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/31_shader_compute.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/32_ecosystem_utilities.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/33_vulkan_profiles.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/34_android.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/35_gltf_ktx.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/36_multiple_objects.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/37_multithreading.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/37_shader_compute.comp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/37_shader_compute.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/37_shader_compute.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/37_shader_compute.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/38_ray_tracing_complete.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/38_ray_tracing.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/38_ray_tracing.frag.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/38_ray_tracing.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/38_ray_tracing.vert.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMakeLists.txt.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/incremental_patch.sh.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/Vulkan Ray Tracing With Dynamic Rendering.pdf"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/gradle",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/build.gradle.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/gradle.properties.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/README.adoc",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/settings.gradle.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/build.gradle.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/cpp",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/AndroidManifest.xml.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/cpp": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/cpp/CMakeLists.txt.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/cpp/game_activity_bridge.cpp.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com/vulkan"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com/vulkan": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com/vulkan/tutorial"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com/vulkan/tutorial": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/java/com/vulkan/tutorial/VulkanActivity.java.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/drawable",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/mipmap-anydpi-v26",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/values",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/xml"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/drawable": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/drawable/ic_launcher_background.xml.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/drawable/ic_launcher_foreground.xml.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/mipmap-anydpi-v26": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/values": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/values/strings.xml.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/values/styles.xml.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/xml": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/xml/backup_rules.xml.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/android/app/src/main/res/xml/data_extraction_rules.xml.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/gradle": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/gradle/wrapper"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/android/gradle/wrapper": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/android/gradle/wrapper/gradle-wrapper.properties.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/CMake": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/Findglm.cmake.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/FindKTX.cmake.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/Findnlohmann_json.cmake.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/Findstb.cmake.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/Findtinygltf.cmake.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/Findtinyobjloader.cmake.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/FindVulkan.cmake.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/CMake/FindVulkanHpp.cmake.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/Assets",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/audio_system.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/audio_system.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/camera_component.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/camera_component.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/CMakeLists.txt.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/component.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/component.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/crash_reporter.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/debug_system.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/descriptor_manager.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/descriptor_manager.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/engine.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/engine.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/entity.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/entity.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/fetch_bistro_assets.bat.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/fetch_bistro_assets.sh.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui_system.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui_system.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/install_dependencies_linux.sh.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/install_dependencies_windows.bat.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/main.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/memory_pool.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/memory_pool.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/mesh_component.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/mesh_component.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/mikktspace.c.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/mikktspace.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/model_loader.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/model_loader.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/physics_system.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/physics_system.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/pipeline.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/pipeline.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/platform.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/platform.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderdoc_debug_system.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderdoc_debug_system.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderer_compute.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderer_core.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderer_pipelines.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderer_rendering.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderer_resources.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderer_utils.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/renderer.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/resource_manager.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/resource_manager.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/scene_loading.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/scene_loading.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/swap_chain.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/thread_pool.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/transform_component.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/transform_component.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/vcpkg.json.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/vulkan_device.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/vulkan_device.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/vulkan_dispatch.cpp.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/Assets": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/Assets/grass-step-right.wav"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/imconfig.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/imgui_draw.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/imgui_internal.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/imgui.cpp.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/imgui.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/stb_rect_pack.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/stb_textedit.h.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/imgui/stb_truetype.h.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders/hrtf.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders/imgui.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders/lighting.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders/pbr.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders/physics.slang.md",
+        "src/Vulkan/Khronos-Tutorial/attachments/simple_engine/shaders/texturedMesh.slang.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Appendix",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/introduction.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Appendix": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Appendix/appendix.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations/02_math_foundations.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations/03_transformation_matrices.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations/04_camera_implementation.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations/05_vulkan_integration.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations/06_conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Camera_Transformations/index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture/02_architectural_patterns.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture/03_component_systems.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture/04_resource_management.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture/05_rendering_pipeline.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture/06_event_systems.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Engine_Architecture/conclusion.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI/02_imgui_setup.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI/03_input_handling.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI/04_ui_elements.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI/05_vulkan_integration.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI/06_conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/GUI/index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials/02_lighting_models.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials/03_push_constants.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials/04_lighting_implementation.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials/05_vulkan_integration.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials/06_conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Lighting_Materials/index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/02_project_setup.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/03_model_system.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/04_loading_gltf.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/05_pbr_rendering.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/06_multiple_objects.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/07_scene_rendering.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/08_animations.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/09_conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Loading_Models/index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development/02_platform_considerations.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development/03_performance_optimizations.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development/04_rendering_approaches.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development/05_vulkan_extensions.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development/06_conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Mobile_Development/index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/02_audio_basics.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/03_vulkan_audio.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/04_physics_basics.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/05_vulkan_physics.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/06_conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Subsystems/index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/01_introduction.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/02_cicd.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/03_debugging_and_renderdoc.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/04_crash_minidump.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/05_extensions.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/06_packaging_and_distribution.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/07_conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/Building_a_Simple_Engine/Tooling/index.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/courses": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/00_Overview.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/01_Dynamic_rendering.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/02_Acceleration_structures.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/03_Ray_query_shadows.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/04_TLAS_animation.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/05_Shadow_transparency.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/06_Reflections.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/07_Conclusion.md",
+        "src/Vulkan/Khronos-Tutorial/courses/18_Ray_tracing/README.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/images": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/images/38_bounding_boxes.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK01_renderdoc_color.gif",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK01_renderdoc_events.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK01_renderdoc_launch.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK02_blas_build.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK02_blas_structures.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK03_tlas_structures.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK04_nsight_capture.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK04_nsight_inspector.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK04_nsight_launch.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK04_nsight_main.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK06_concept_shadows.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK07_shadows_dynamic.gif",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK08_alphacut_after.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK08_alphacut_before.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK09_instance_custom_index.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK09_instance_lut.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK10_alphacut_shadows.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK11_alphacut_reflections.png",
+        "src/Vulkan/Khronos-Tutorial/images/38_TASK11_concept_reflections.png",
+        "src/Vulkan/Khronos-Tutorial/images/aliasing.png",
+        "src/Vulkan/Khronos-Tutorial/images/anisotropic_filtering.png",
+        "src/Vulkan/Khronos-Tutorial/images/antialiasing.png",
+        "src/Vulkan/Khronos-Tutorial/images/bistro.png",
+        "src/Vulkan/Khronos-Tutorial/images/component_based_architecture_diagram.png",
+        "src/Vulkan/Khronos-Tutorial/images/compute_shader_particles.png",
+        "src/Vulkan/Khronos-Tutorial/images/compute_space.svg",
+        "src/Vulkan/Khronos-Tutorial/images/compute_ssbo_read_write.svg",
+        "src/Vulkan/Khronos-Tutorial/images/cube_demo.png",
+        "src/Vulkan/Khronos-Tutorial/images/cube_demo_mac.png",
+        "src/Vulkan/Khronos-Tutorial/images/cube_demo_nowindow.png",
+        "src/Vulkan/Khronos-Tutorial/images/data_oriented_design_diagram.svg",
+        "src/Vulkan/Khronos-Tutorial/images/depth_correct.png",
+        "src/Vulkan/Khronos-Tutorial/images/depth_issues.png",
+        "src/Vulkan/Khronos-Tutorial/images/drawing_model.png",
+        "src/Vulkan/Khronos-Tutorial/images/extra_square.svg",
+        "src/Vulkan/Khronos-Tutorial/images/favicon.png",
+        "src/Vulkan/Khronos-Tutorial/images/glfw_directory.png",
+        "src/Vulkan/Khronos-Tutorial/images/highmipmaps.png",
+        "src/Vulkan/Khronos-Tutorial/images/include_dirs_stb.png",
+        "src/Vulkan/Khronos-Tutorial/images/include_dirs_tinyobjloader.png",
+        "src/Vulkan/Khronos-Tutorial/images/indexed_rectangle.png",
+        "src/Vulkan/Khronos-Tutorial/images/inverted_texture_coordinates.png",
+        "src/Vulkan/Khronos-Tutorial/images/layered_architecture_diagram.png",
+        "src/Vulkan/Khronos-Tutorial/images/library_directory.png",
+        "src/Vulkan/Khronos-Tutorial/images/matrix-order-comparison.svg",
+        "src/Vulkan/Khronos-Tutorial/images/mipmaps.png",
+        "src/Vulkan/Khronos-Tutorial/images/mipmaps_comparison.png",
+        "src/Vulkan/Khronos-Tutorial/images/mipmaps_example.jpg",
+        "src/Vulkan/Khronos-Tutorial/images/multisampling.png",
+        "src/Vulkan/Khronos-Tutorial/images/multisampling_comparison.png",
+        "src/Vulkan/Khronos-Tutorial/images/multisampling_comparison2.png",
+        "src/Vulkan/Khronos-Tutorial/images/normalized_device_coordinates.svg",
+        "src/Vulkan/Khronos-Tutorial/images/rendering_pipeline_flowchart.png",
+        "src/Vulkan/Khronos-Tutorial/images/sample_shading.png",
+        "src/Vulkan/Khronos-Tutorial/images/sdk_install_mac.png",
+        "src/Vulkan/Khronos-Tutorial/images/select_develop_branch.png",
+        "src/Vulkan/Khronos-Tutorial/images/semaphore_in_use.png",
+        "src/Vulkan/Khronos-Tutorial/images/service_locator_pattern_diagram.svg",
+        "src/Vulkan/Khronos-Tutorial/images/spinning_quad.png",
+        "src/Vulkan/Khronos-Tutorial/images/steam_layers_env.png",
+        "src/Vulkan/Khronos-Tutorial/images/swap_chain_validation_layer.png",
+        "src/Vulkan/Khronos-Tutorial/images/texcoord_visualization.png",
+        "src/Vulkan/Khronos-Tutorial/images/texture.jpg",
+        "src/Vulkan/Khronos-Tutorial/images/texture_addressing.png",
+        "src/Vulkan/Khronos-Tutorial/images/texture_filtering.png",
+        "src/Vulkan/Khronos-Tutorial/images/texture_on_square.png",
+        "src/Vulkan/Khronos-Tutorial/images/texture_on_square_colorized.png",
+        "src/Vulkan/Khronos-Tutorial/images/texture_on_square_repeated.png",
+        "src/Vulkan/Khronos-Tutorial/images/triangle.png",
+        "src/Vulkan/Khronos-Tutorial/images/triangle_coordinates.svg",
+        "src/Vulkan/Khronos-Tutorial/images/triangle_coordinates_colors.png",
+        "src/Vulkan/Khronos-Tutorial/images/triangle_white.png",
+        "src/Vulkan/Khronos-Tutorial/images/validation_layer_anisotropy.png",
+        "src/Vulkan/Khronos-Tutorial/images/validation_layer_test.png",
+        "src/Vulkan/Khronos-Tutorial/images/vertex_vs_index.svg",
+        "src/Vulkan/Khronos-Tutorial/images/viewports_scissors.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_all_configs.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_application_settings.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_build_mode.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_cpp_general.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_cpp17.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_dependencies.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_export_template.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_include_dirs.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_link_dirs.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_link_input.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_link_settings.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_new_cpp_project.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_new_item.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_new_source_file.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_open_project_properties.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_template.png",
+        "src/Vulkan/Khronos-Tutorial/images/vs_test_window.png",
+        "src/Vulkan/Khronos-Tutorial/images/vulkan_pipeline_block_diagram.png",
+        "src/Vulkan/Khronos-Tutorial/images/vulkan_simplified_pipeline.svg",
+        "src/Vulkan/Khronos-Tutorial/images/xcode_frameworks.png",
+        "src/Vulkan/Khronos-Tutorial/images/xcode_new_project.png",
+        "src/Vulkan/Khronos-Tutorial/images/xcode_new_project_2.png",
+        "src/Vulkan/Khronos-Tutorial/images/xcode_output.png",
+        "src/Vulkan/Khronos-Tutorial/images/xcode_paths.png",
+        "src/Vulkan/Khronos-Tutorial/images/xcode_variables.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Khronos-Tutorial/scripts": {
+      "children": [
+        "src/Vulkan/Khronos-Tutorial/scripts/install_dependencies_linux.sh.md",
+        "src/Vulkan/Khronos-Tutorial/scripts/install_dependencies_windows.bat.md",
+        "src/Vulkan/Khronos-Tutorial/scripts/vcpkg.json.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/01 - Introduction.md",
+        "src/Vulkan/Rust Vulkan Tutorial/02 - Overview.md",
+        "src/Vulkan/Rust Vulkan Tutorial/03 - Development environment.md",
+        "src/Vulkan/Rust Vulkan Tutorial/04 - FAQ.md",
+        "src/Vulkan/Rust Vulkan Tutorial/05 - Setup",
+        "src/Vulkan/Rust Vulkan Tutorial/10 - Presentation",
+        "src/Vulkan/Rust Vulkan Tutorial/13 - Pipeline",
+        "src/Vulkan/Rust Vulkan Tutorial/18 - Drawing",
+        "src/Vulkan/Rust Vulkan Tutorial/21 - Swapchain",
+        "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers",
+        "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers",
+        "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping",
+        "src/Vulkan/Rust Vulkan Tutorial/31 - Model",
+        "src/Vulkan/Rust Vulkan Tutorial/33 - Rendering quality",
+        "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes",
+        "src/Vulkan/Rust Vulkan Tutorial/38 - Conclusion.md",
+        "src/Vulkan/Rust Vulkan Tutorial/SUMMARY.md",
+        "src/Vulkan/Rust Vulkan Tutorial/images",
+        "src/Vulkan/Rust Vulkan Tutorial/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/05 - Setup": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/05 - Setup/05 - Base code.md",
+        "src/Vulkan/Rust Vulkan Tutorial/05 - Setup/06 - Instance.md",
+        "src/Vulkan/Rust Vulkan Tutorial/05 - Setup/07 - Validation layers.md",
+        "src/Vulkan/Rust Vulkan Tutorial/05 - Setup/08 - Physical devices and queue families.md",
+        "src/Vulkan/Rust Vulkan Tutorial/05 - Setup/09 - Logical device and queues.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/10 - Presentation": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/10 - Presentation/10 - Window surface.md",
+        "src/Vulkan/Rust Vulkan Tutorial/10 - Presentation/11 - Swapchain.md",
+        "src/Vulkan/Rust Vulkan Tutorial/10 - Presentation/12 - Image views.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/13 - Pipeline": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/13 - Pipeline/13 - Introduction.md",
+        "src/Vulkan/Rust Vulkan Tutorial/13 - Pipeline/14 - Shader modules.md",
+        "src/Vulkan/Rust Vulkan Tutorial/13 - Pipeline/15 - Fixed functions.md",
+        "src/Vulkan/Rust Vulkan Tutorial/13 - Pipeline/16 - Render passes.md",
+        "src/Vulkan/Rust Vulkan Tutorial/13 - Pipeline/17 - Conclusion.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/18 - Drawing": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/18 - Drawing/18 - Framebuffers.md",
+        "src/Vulkan/Rust Vulkan Tutorial/18 - Drawing/19 - Command buffers.md",
+        "src/Vulkan/Rust Vulkan Tutorial/18 - Drawing/20 - Rendering and presentation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/21 - Swapchain": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/21 - Swapchain/21 - Recreation.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/22 - Vertex input description.md",
+        "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/23 - Vertex buffer creation.md",
+        "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/24 - Staging buffer.md",
+        "src/Vulkan/Rust Vulkan Tutorial/22 - Vertex buffers/25 - Index buffer.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/26 - Descriptor set layout and buffer.md",
+        "src/Vulkan/Rust Vulkan Tutorial/26 - Uniform buffers/27 - Descriptor pool and sets.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping/28 - Images.md",
+        "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping/29 - Image view and sampler.md",
+        "src/Vulkan/Rust Vulkan Tutorial/28 - Texture mapping/30 - Combined image sampler.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/31 - Model": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/31 - Model/31 - Depth buffering.md",
+        "src/Vulkan/Rust Vulkan Tutorial/31 - Model/32 - Loading models.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/33 - Rendering quality": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/33 - Rendering quality/33 - Generating mipmaps.md",
+        "src/Vulkan/Rust Vulkan Tutorial/33 - Rendering quality/34 - Multisampling.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes/35 - Push constants.md",
+        "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes/36 - Recycling command buffers.md",
+        "src/Vulkan/Rust Vulkan Tutorial/35 - Dynamic scenes/37 - Secondary command buffers.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/images": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource",
+        "src/Vulkan/Rust Vulkan Tutorial/images/3_models.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/4_models.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/aliasing.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/anisotropic_filtering.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/antialiasing.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/cube_demo.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/cube_demo_mac.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/cube_demo_nowindow.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/depth_correct.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/depth_issues.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/drawing_model.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/extra_square.svg",
+        "src/Vulkan/Rust Vulkan Tutorial/images/highmipmaps.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/i_have_no_idea_what_im_doing.jpg",
+        "src/Vulkan/Rust Vulkan Tutorial/images/indexed_rectangle.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/inverted_texture_coordinates.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/mipmaps.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/mipmaps_comparison.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/mipmaps_comparison_axe.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/mipmaps_example.jpg",
+        "src/Vulkan/Rust Vulkan Tutorial/images/multisampling.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/multisampling_comparison.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/multisampling_comparison_axe.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/normalized_device_coordinates.svg",
+        "src/Vulkan/Rust Vulkan Tutorial/images/opacity_push_constant.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/sample_shading.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/semaphore_in_use.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/spinning_ghost_model.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/spinning_quad.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/steam_layers_env.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/swapchain_validation_layer.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/texcoord_visualization.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/texture.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/texture_addressing.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/texture_filtering.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/texture_on_square.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/texture_on_square_colorized.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/texture_on_square_repeated.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/triangle.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/triangle_coordinates.svg",
+        "src/Vulkan/Rust Vulkan Tutorial/images/triangle_coordinates_colors.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/triangle_white.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/validation_layer_anisotropy.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/validation_layer_test.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/vertex_vs_index.svg",
+        "src/Vulkan/Rust Vulkan Tutorial/images/viewports_scissors.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/viking_room.obj",
+        "src/Vulkan/Rust Vulkan Tutorial/images/viking_room.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/vulkan_sdk_download_buttons.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/vulkan_simplified_pipeline.svg"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/2X3.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/camera.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/final.PNG",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/homogeneous.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/identityExample.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/M.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/MatrixXVect.gif",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/model.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/model_to_world.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/model_to_world_to_camera.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/model_to_world_to_camera_to_homogeneous.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/MV.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/MVP.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/nondeforme.blend",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/nondeforme.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/perspective_red_triangle.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/projected.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/scalingExample.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/scalingMatrix.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/transforms.svg",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/translationExampleDirection.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/translationExamplePosition.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/translationMatrix.png",
+        "src/Vulkan/Rust Vulkan Tutorial/images/Projection Resource/world.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/Rust Vulkan Tutorial/Resources": {
+      "children": [
+        "src/Vulkan/Rust Vulkan Tutorial/Resources/Matrices and Quaternions.md",
+        "src/Vulkan/Rust Vulkan Tutorial/Resources/Projection.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/vulkan-diagrams": {
+      "children": [
+        "src/Vulkan/vulkan-diagrams/Images",
+        "src/Vulkan/vulkan-diagrams/README.md",
+        "src/Vulkan/vulkan-diagrams/README.pdf",
+        "src/Vulkan/vulkan-diagrams/test.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "src/Vulkan/vulkan-diagrams/Images": {
+      "children": [
+        "src/Vulkan/vulkan-diagrams/Images/barrier.png",
+        "src/Vulkan/vulkan-diagrams/Images/barrier.svg",
+        "src/Vulkan/vulkan-diagrams/Images/boiler_plate.png",
+        "src/Vulkan/vulkan-diagrams/Images/boiler_plate.svg",
+        "src/Vulkan/vulkan-diagrams/Images/descriptor_sets.png",
+        "src/Vulkan/vulkan-diagrams/Images/descriptor_sets.svg",
+        "src/Vulkan/vulkan-diagrams/Images/fence_synchronization.png",
+        "src/Vulkan/vulkan-diagrams/Images/fence_synchronization.svg",
+        "src/Vulkan/vulkan-diagrams/Images/push_constants.png",
+        "src/Vulkan/vulkan-diagrams/Images/push_constants.svg",
+        "src/Vulkan/vulkan-diagrams/Images/ray_tracing.svg",
+        "src/Vulkan/vulkan-diagrams/Images/ray_tracing_build_blas.png",
+        "src/Vulkan/vulkan-diagrams/Images/ray_tracing_build_tlas.png",
+        "src/Vulkan/vulkan-diagrams/Images/ray_tracing_sbt.png",
+        "src/Vulkan/vulkan-diagrams/Images/render_loop.png",
+        "src/Vulkan/vulkan-diagrams/Images/render_loop.svg",
+        "src/Vulkan/vulkan-diagrams/Images/render_pass_swapchain.png",
+        "src/Vulkan/vulkan-diagrams/Images/render_pass_swapchain.svg",
+        "src/Vulkan/vulkan-diagrams/Images/vertex_buffer.png",
+        "src/Vulkan/vulkan-diagrams/Images/vertex_buffer.svg",
+        "src/Vulkan/vulkan-diagrams/Images/vertex_input.png",
+        "src/Vulkan/vulkan-diagrams/Images/vertex_input.svg"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}

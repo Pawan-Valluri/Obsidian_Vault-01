@@ -2,7 +2,6 @@
   "customOrder": {
     "/": {
       "children": [
-        "_.obsidian",
         "Images",
         "Ref",
         "src",
@@ -10,22 +9,6 @@
         "README.md",
         "Thinking model architecture.canvas"
       ],
-      "sortOrder": "custom"
-    },
-    "_.obsidian": {
-      "children": [
-        "_.obsidian/plugins"
-      ],
-      "sortOrder": "custom"
-    },
-    "_.obsidian/plugins": {
-      "children": [
-        "_.obsidian/plugins/obsidian-excalidraw-plugin"
-      ],
-      "sortOrder": "custom"
-    },
-    "_.obsidian/plugins/obsidian-excalidraw-plugin": {
-      "children": [],
       "sortOrder": "custom"
     },
     "Images": {

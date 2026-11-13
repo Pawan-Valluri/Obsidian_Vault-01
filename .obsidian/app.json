@@ -26,5 +26,6 @@
     "editor:insert-table"
   ],
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": false
 }
